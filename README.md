@@ -7,6 +7,6 @@ Ecslent uses
   
   We used [Eclipse](https://www.eclipse.org/) for developing Ecslent.
 
-More information on Ecslent's architecture can be found from [my game engine architecture course](https://www.cse.unr.edu/~sushil/class/381/) at [UNR](https://www.unr.edu).
+More information on Ecslent's architecture can be found from [this game engine architecture course](https://www.cse.unr.edu/~sushil/class/381/) at [UNR](https://www.unr.edu).
 
 Ecslent is pronounced excellent:-)
